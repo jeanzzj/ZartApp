@@ -1,0 +1,20 @@
+# Segredos (nunca versionar tokens ou credenciais)
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (caso o projeto evolua para código)
+node_modules/
+dist/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
