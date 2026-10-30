@@ -24,16 +24,16 @@
 
 ## Telas de alta fidelidade
 
-Paleta: preto `#121212` como base, amarelo `#F3C300` nos destaques e botões principais, cinzas quentes para superfícies e textos secundários.
+Paleta: preto como base, amarelo `#F6C400` nos destaques e botões principais. As 17 telas abaixo são capturas do protótipo navegável em execução (Figma Make).
 
-![Visão geral das 15 telas](../design/telas/00-visao-geral.png)
+![Visão geral das 17 telas](../design/telas/00-visao-geral.png)
 
 | Perfil | Telas |
 |---|---|
-| Entrada | [01 Login e cadastro](../design/telas/01-login-cadastro.png) |
-| Cliente | [02 Home](../design/telas/02-cliente-home.png), [03 Selecionar serviço](../design/telas/03-cliente-selecionar-servico.png), [04 Barbeiro e horário](../design/telas/04-cliente-barbeiro-horario.png), [05 Confirmar e pagar](../design/telas/05-cliente-confirmar-pagamento.png), [06 Meus agendamentos](../design/telas/06-cliente-meus-agendamentos.png), [07 Histórico e fidelidade](../design/telas/07-cliente-historico-fidelidade.png) |
-| Barbeiro | [08 Agenda do dia](../design/telas/08-barbeiro-agenda-dia.png), [09 Detalhe do atendimento](../design/telas/09-barbeiro-detalhe-atendimento.png), [10 Histórico de clientes](../design/telas/10-barbeiro-historico-clientes.png) |
-| Administrador | [11 Painel](../design/telas/11-admin-painel.png), [12 Barbeiros](../design/telas/12-admin-barbeiros.png), [13 Serviços](../design/telas/13-admin-servicos.png), [14 Agenda geral](../design/telas/14-admin-agenda-geral.png), [15 Relatórios](../design/telas/15-admin-relatorios.png) |
+| Entrada | [01 Splash](../design/telas/01-splash.png), [02 Login](../design/telas/02-login.png), [03 Seleção de perfil](../design/telas/03-selecao-perfil.png) |
+| Cliente | [04 Início](../design/telas/04-cliente-inicio.png), [05 Serviços](../design/telas/05-cliente-servicos.png), [06 Escolher barbeiro](../design/telas/06-cliente-escolher-barbeiro.png), [07 Data e horário](../design/telas/07-cliente-data-horario.png), [08 Confirmação e pagamento](../design/telas/08-cliente-confirmacao-pagamento.png), [09 Confirmado](../design/telas/09-cliente-confirmado.png), [10 Agendamentos](../design/telas/10-cliente-agendamentos.png), [11 Histórico](../design/telas/11-cliente-historico.png), [12 Fidelidade](../design/telas/12-cliente-fidelidade.png) |
+| Barbeiro | [13 Agenda](../design/telas/13-barbeiro-agenda.png), [14 Atendimento](../design/telas/14-barbeiro-atendimento.png) |
+| Administrador | [15 Dashboard](../design/telas/15-admin-dashboard.png), [16 Gestão](../design/telas/16-admin-gestao.png), [17 Relatórios](../design/telas/17-admin-relatorios.png) |
 
 ## Protótipo navegável
 

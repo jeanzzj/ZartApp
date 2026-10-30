@@ -12,7 +12,7 @@ O ZartApp permite que o cliente agende, pague e acompanhe seus cortes pelo celul
 
 Identidade visual: **preto** como cor principal e **amarelo** nos detalhes. O logotipo é uma bicicleta estilo Monark em amarelo.
 
-![Visão geral das 15 telas](design/telas/00-visao-geral.png)
+![Visão geral das 17 telas](design/telas/00-visao-geral.png)
 
 ## Conteúdo do repositório
 
@@ -21,7 +21,7 @@ Identidade visual: **preto** como cor principal e **amarelo** nos detalhes. O lo
 | [`docs/`](docs) | Descrição do app, requisitos (RF e RNF), UX e gestão de tarefas |
 | [`assets/navegacao/`](assets/navegacao) | Diagramas do mapa de navegação (entrada, cliente, barbeiro, administrador) |
 | [`assets/wireframes/`](assets/wireframes) | Wireframes de baixa fidelidade de todas as telas |
-| [`design/telas/`](design/telas) | As 15 telas de alta fidelidade em imagem |
+| [`design/telas/`](design/telas) | As 17 telas de alta fidelidade (capturas do protótipo navegável) |
 | [`design/prototipo-figma/`](design/prototipo-figma) | Link e capturas do protótipo navegável no Figma |
 
 ## Documentos
